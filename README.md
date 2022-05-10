@@ -1,3 +1,3 @@
-# Python-Project
-Flower Recognition Application\
+# PYTHON PROJECT
+## Flower Recognition Application
 Run file main.py
